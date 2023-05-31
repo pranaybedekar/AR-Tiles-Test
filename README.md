@@ -1,33 +1,16 @@
-![banner](https://github.com/lightlessdays/ar-tiles/blob/main/AR%20Tiles%20Banner.png)
+# AR Tiles 
+AR Tiles Test using Unity is a project that involves creating an augmented reality (AR) experience where users can interact with virtual tiles in a real-world environment using the Unity game development engine. The goal of the project is to showcase the capabilities of AR technology and demonstrate how virtual objects can seamlessly blend into the real world.
 
-## ⬇️ Test the app
+To implement this project, you would start by setting up a development environment with Unity and the necessary AR development tools, such as AR Foundation or Vuforia. These tools allow you to build AR applications that can run on various platforms, including iOS and Android devices.
 
-Download the latest version of the app from here: [Download  APK](https://drive.google.com/file/d/1_PrTd16t8KlljcNWAl8-2Pg3NPU5OJI4/view?usp=sharing)
+Next, you would design and create virtual tile assets that can be placed and manipulated in the AR scene. These assets could include different types of tiles, such as floor tiles, wall tiles, or decorative tiles. You would need to model and texture these tiles using a 3D modeling software like Blender or Maya, and then import them into Unity.
 
-Download pre-release version of the app from here: [Download pre-release APK](https://drive.google.com/file/d/1aCpERAaPkTyu1F5ARzpWaT5QH0mg9W3x/view?usp=sharing)
+Once the virtual tile assets are ready, you can begin creating the AR scene in Unity. This involves placing the virtual tiles in the real-world environment using AR tracking technology. The AR development tools provide functionality to detect and track real-world surfaces, allowing you to position the virtual tiles accurately.
 
-## 🔮 How it works?
+To enable user interaction, you would implement touch or gesture-based input controls in Unity. This would allow users to select, move, rotate, and scale the virtual tiles within the AR scene. You could also incorporate features like snapping tiles together or changing their appearance dynamically.
 
-This application buils upon the plane tracking feature of ARFoundation, integrating the horizontal floor planes with the tile textures, giving an illusion of tiles on floor.
+Additionally, you might consider implementing physics-based interactions, so that the virtual tiles respond realistically to collisions and gravity. This would make the AR experience more immersive and engaging for the users.
 
-## ✨ Problem it solves
+Throughout the development process, it would be important to test the AR application on different devices and in various environments to ensure optimal performance and stability. You may need to iterate and refine your implementation based on user feedback and testing results.
 
-Often times, while buying tiles, it is not possible for people to find out whether the tiles would look good on their floors. Sometimes, they end up choosing the wrong tiles. This app solves the problem by allowing users to see how selected tiles would look on their floor, just with the click of a button. 
-
-This app has been made using Unity Game Engine.
-
-## 🤝 Contribute to this project
-
-Fork this project, make some changes and send a pull request to contribute to this project. You might consider completing one of the tasks from to-do list:
-- Adding iOS .ipa file in README.md for Apple Users.
-- Adding screenshots of version v2.0.
-
-## 📱 Screenshots
-
-The following screenshots are from the older version of this app. The older version of the app has been added as a pre-release version in the [releases](https://github.com/lightlessdays/ar-tiles/releases) section.
-
-<p align="middle">
-<img src="https://github.com/lightlessdays/ar-tiles/blob/main/1.jpeg" width=30%>
-<img src="https://github.com/lightlessdays/ar-tiles/blob/main/2.jpeg" width=30%>
-<img src="https://github.com/lightlessdays/ar-tiles/blob/main/3.jpeg" width=30%>
-  </p>
+Overall, the AR Tiles Test using Unity project aims to demonstrate the potential of AR technology in creating interactive and visually appealing experiences. It showcases how virtual tiles can be seamlessly integrated into the real world, providing users with a unique and immersive AR interaction.
