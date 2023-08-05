@@ -16,5 +16,3 @@ Throughout the development process, it would be important to test the AR applica
 Overall, the AR Tiles Test using Unity project aims to demonstrate the potential of AR technology in creating interactive and visually appealing experiences. It showcases how virtual tiles can be seamlessly integrated into the real world, providing users with a unique and immersive AR interaction.
 
 
-# Output
-![3](https://github.com/pranaybedekar/AR-Tiles-Test/assets/81001795/3ccb1c2a-3dad-4d5e-ae83-fc0fe8855cce)
