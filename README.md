@@ -1,3 +1,9 @@
+# Output
+
+
+https://github.com/pranaybedekar/AR-Tiles-Test/assets/81001795/30787076-ff2f-4a90-a290-1b76896b9f79
+
+
 # AR Tiles 
 AR Tiles Test using Unity is a project that involves creating an augmented reality (AR) experience where users can interact with virtual tiles in a real-world environment using the Unity game development engine. The goal of the project is to showcase the capabilities of AR technology and demonstrate how virtual objects can seamlessly blend into the real world.
 
